@@ -1,4 +1,4 @@
-# Bug Report Sample
+# Bug Report (Indrive app)
 
 ## Bug Title
 Ride request button not responding
